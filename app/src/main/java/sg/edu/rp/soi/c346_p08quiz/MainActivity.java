@@ -75,10 +75,10 @@ public class MainActivity extends AppCompatActivity {
         int intpo = prefs.getInt("getpo",0);
         Boolean strlocal = prefs.getBoolean("getlo",true);
 
-        Log.d("tag",strname);
-        Log.d("tag",intage+"");
-        Log.d("tag",intpo+"");
-        Log.d("tag",strlocal+"");
+//        Log.d("tag",strname);
+//        Log.d("tag",intage+"");
+//        Log.d("tag",intpo+"");
+//        Log.d("tag",strlocal+"");
 
     }
 
